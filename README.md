@@ -1,2 +1,2 @@
 # my-components
-Első próbálkozás.
+header és footer
